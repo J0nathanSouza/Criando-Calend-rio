@@ -1,2 +1,11 @@
-# Criando-Calend-rio
-Projeto de criar um calendário, em que foi criado um Menu de acessibilidades para agendamento de consultas, opção de marcar consulta com limite (5 por dia), visualização do calendário normal e calendário com consultas marcadas.
+# Criando-Calendario
+
+Membros: 
+
+Jonathan de Souza Mariano da Silva / Caio Fernandes de Amorim
+
+Dificuldades que tive ao criar o projeto:
+
+Manipulação de Arrays: Trabalhar com arrays multidimensionais para armazenar os agendamentos para cada dia do ano.
+Interação entre Funções: Criar uma função para mostrar o calendário com agendamentos e garantir que, após a exibição do calendário, o programa solicite ao usuário se deseja agendar uma consulta.
+Exibição de Calendário / Exibir Calendário com Consultas marcadas: Desenvolver uma função para imprimir o calendário do ano dado, mostrando os dias da semana e os dias do mês, bem como os agendamentos feitos para cada dia.
